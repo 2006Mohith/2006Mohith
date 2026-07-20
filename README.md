@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=MOHITH%20KANUGULA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20FPGA%20%7C%20AI%20%7C%20IoT%20%7C%20Robotics&descAlignY=58&descSize=18" width="100%"/>
@@ -15,9 +14,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2CE8B5?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio-link.example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-kanugula-019331341/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithkanugula2006@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2CE8B5?style=for-the-badge&logo=vercel&logoColor=black)](https://mohith-portfolio-zeta.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-Download-FFB020?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.example.com)
 
 </div>
@@ -119,24 +118,31 @@ A real-time competitive programming platform supporting coding duels, team battl
 **Tech Stack:** `React` `Express` `Socket.IO` `SQLite` `JWT` `OAuth`
 
 <a href="https://github.com/2006Mohith/CodeArena"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://demo-placeholder.example.com"><img src="https://img.shields.io/badge/Demo-2CE8B5?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Sankalp Sports Fest Live Scoreboard
+### 🏆 Sankalp Scorecard 2025 — Live Sports Score System
 
-A MERN-based live sports scoreboard platform with real-time match updates, an admin portal, and secure score management.
+A full-stack live score tracking web application for sports events, with an admin panel for managing teams and matches, real-time score updates, and a responsive UI.
 
-**Tech Stack:** `MongoDB` `Express` `React` `Node.js` `Socket.IO`
+**Tech Stack:** `ReactJS` `Node.js` `Express.js` `MongoDB`
 
-<a href="https://github.com/2006Mohith/REPO_PLACEHOLDER"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/2006Mohith/sankalp_scorecard"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://demo-placeholder.example.com"><img src="https://img.shields.io/badge/Demo-2CE8B5?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </td>
 <td width="50%" valign="top">
+
+### 🚦 Traffic Light Control System using FPGA
+
+An FSM-based automated traffic light controller designed and simulated in Verilog HDL, with simulation, synthesis, and bitstream generation completed on Vivado.
+
+**Tech Stack:** `Verilog HDL` `Vivado` `FPGA`
+
+<a href="https://github.com/2006Mohith/REPO_PLACEHOLDER"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
