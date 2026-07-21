@@ -161,7 +161,7 @@ An FSM-based automated traffic light controller designed and simulated in Verilo
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=2006Mohith&theme=radical&hide_border=true&background=0F2027&ring=2CE8B5&fire=FFB020&currStreakLabel=2CE8B5" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=2006Mohith&theme=radical&hide_border=true&background=0F2027&ring=2CE8B5&fire=FFB020&currStreakLabel=2CE8B5" width="60%"/>
 
 <br/>
 
@@ -184,6 +184,8 @@ An FSM-based automated traffic light controller designed and simulated in Verilo
 </div>
 
 > **Note:** The contribution snake needs the [`platane/snk`](https://github.com/Platane/snk) GitHub Action set up in the `2006Mohith/2006Mohith` repository to generate that SVG automatically — until it's added, that image won't render.
+>
+> **Note:** The Stats, Top Languages, and Activity Graph cards above pull from the free shared instances of `github-readme-stats.vercel.app` and `github-readme-activity-graph.vercel.app`. These are used by hundreds of thousands of profiles and regularly hit GitHub's API rate limit, which is what causes the "Failed to retrieve contributions" error — it isn't a bug in this file. It usually clears up on its own after some time. For a permanent fix, deploy your own free instance of each on Vercel using your own GitHub token (fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph), then swap the URLs above for your deployment's domain).
 
 ---
 
@@ -232,11 +234,11 @@ An FSM-based automated traffic light controller designed and simulated in Verilo
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_HANDLE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_HANDLE)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_HANDLE)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_HANDLE)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_HANDLE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/2006Mohith/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mohithkanugula2006)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mohithkanugula)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mohithkanugula21)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mohithkanuer0o)
 
 </div>
 
