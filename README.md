@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-kanugula-019331341/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithkanugula2006@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2CE8B5?style=for-the-badge&logo=vercel&logoColor=black)](https://mohith-portfolio-zeta.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-Download-FFB020?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.example.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-FFB020?style=for-the-badge&logo=googledocs&logoColor=black)](https://your-resume-link.example.com)
 
 </div>
 
@@ -60,14 +60,14 @@ I'm an undergraduate in Electronics and Communication Engineering, working towar
 **Hardware**
 <br/>
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" height="28"/> &nbsp;
-<img src="https://img.shields.io/badge/PCB%20Design-2CE8B5?style=for-the-badge&logo=circuitverse&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/PCB%20Design-2CE8B5?style=for-the-badge&logo=kicad&logoColor=black" height="28"/>
 
 <br/><br/>
 
 **Digital Design**
 <br/>
-<img src="https://img.shields.io/badge/Verilog-005C9C?style=for-the-badge&logo=v&logoColor=white" height="28"/> &nbsp;
-<img src="https://img.shields.io/badge/VLSI-1E1E1E?style=for-the-badge&logo=chip&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Verilog-005C9C?style=for-the-badge&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/VLSI-1E1E1E?style=for-the-badge&logo=xilinx&logoColor=white" height="28"/>
 
 <br/><br/>
 
@@ -191,13 +191,13 @@ An FSM-based automated traffic light controller designed and simulated in Verilo
 
 <div align="center">
 
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0F2027?style=for-the-badge&logo=chip&logoColor=2CE8B5)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-0F2027?style=for-the-badge&logoColor=2CE8B5)
 ![IoT](https://img.shields.io/badge/IoT-0F2027?style=for-the-badge&logo=espressif&logoColor=2CE8B5)
 ![PCB Design](https://img.shields.io/badge/PCB%20Design-0F2027?style=for-the-badge&logo=kicad&logoColor=2CE8B5)
 ![Linux](https://img.shields.io/badge/Linux-0F2027?style=for-the-badge&logo=linux&logoColor=2CE8B5)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-0F2027?style=for-the-badge&logo=tensorflow&logoColor=2CE8B5)
 ![FPGA](https://img.shields.io/badge/FPGA-0F2027?style=for-the-badge&logo=xilinx&logoColor=2CE8B5)
-![Verilog](https://img.shields.io/badge/Verilog-0F2027?style=for-the-badge&logo=v&logoColor=2CE8B5)
+![Verilog](https://img.shields.io/badge/Verilog-0F2027?style=for-the-badge&logoColor=2CE8B5)
 ![React](https://img.shields.io/badge/React-0F2027?style=for-the-badge&logo=react&logoColor=2CE8B5)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F2027?style=for-the-badge&logo=mongodb&logoColor=2CE8B5)
 ![Open Source](https://img.shields.io/badge/Open%20Source-0F2027?style=for-the-badge&logo=opensourceinitiative&logoColor=2CE8B5)
