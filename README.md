@@ -182,11 +182,6 @@ An FSM-based automated traffic light controller designed and simulated in Verilo
 ![Profile Views](https://komarev.com/ghpvc/?username=2006Mohith&color=2ce8b5&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-> **Note:** The contribution snake needs the [`platane/snk`](https://github.com/Platane/snk) GitHub Action set up in the `2006Mohith/2006Mohith` repository to generate that SVG automatically — until it's added, that image won't render.
->
-> **Note:** The Stats, Top Languages, and Activity Graph cards above pull from the free shared instances of `github-readme-stats.vercel.app` and `github-readme-activity-graph.vercel.app`. These are used by hundreds of thousands of profiles and regularly hit GitHub's API rate limit, which is what causes the "Failed to retrieve contributions" error — it isn't a bug in this file. It usually clears up on its own after some time. For a permanent fix, deploy your own free instance of each on Vercel using your own GitHub token (fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph), then swap the URLs above for your deployment's domain).
-
 ---
 
 ## ⚡ Engineering Interests
@@ -206,7 +201,6 @@ An FSM-based automated traffic light controller designed and simulated in Verilo
 
 </div>
 
----
 
 ## 🗺️ Currently Learning
 
